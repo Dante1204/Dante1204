@@ -45,7 +45,7 @@ buscando:     Oportunidades para crecer, colaborar y construir cosas chidas
 
 ---
 
-## `projects[]`
+## `projectos`
 
 ### BitCuisine SIGR
 > Sistema SaaS para gestión integral de restaurantes
