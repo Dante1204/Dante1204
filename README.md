@@ -19,7 +19,7 @@
 
 ---
 
-## `whoami`
+## `Quien Soy?`
 
 ```yaml
 nombre:       Dante Gabriel Domínguez Morales
@@ -32,24 +32,22 @@ buscando:     Oportunidades para crecer, colaborar y construir cosas chidas
 
 ---
 
-## `tech_stack.json`
+## `tech stack`
 
-```json
-{
+```
   "languages":   ["JavaScript", "TypeScript", "Java 21", "C#", "PHP", "Python", "SQL"],
   "frontend":    ["React 19", "Next.js 15", "HTML", "CSS"],
   "backend":     ["Node.js", "Prisma ORM"],
   "databases":   ["SQL", "NoSQL"],
   "data_bi":     ["Apache Superset", "Apache HOP"],
-  "other":       ["Unity", "JWT Auth", "LLMs / Claude"]
-}
+  "otros":       ["Unity", "JWT Auth", "LLMs / Claude"]
 ```
 
 ---
 
 ## `projects[]`
 
-### 🍽️ BitCuisine SIGR
+### BitCuisine SIGR
 > Sistema SaaS para gestión integral de restaurantes
 
 - Mapa visual de mesas en tiempo real
@@ -61,7 +59,7 @@ buscando:     Oportunidades para crecer, colaborar y construir cosas chidas
 
 ---
 
-### 📷 DK Fotografía
+### DK Fotografía
 > Plataforma web para estudio fotográfico
 
 - Agenda de citas online
@@ -72,7 +70,7 @@ buscando:     Oportunidades para crecer, colaborar y construir cosas chidas
 
 ---
 
-### 🎮 SkyBound
+### SkyBound
 > Videojuego móvil tipo endless runner
 
 - Mecánicas de obstáculos dinámicos
@@ -92,21 +90,7 @@ buscando:     Oportunidades para crecer, colaborar y construir cosas chidas
 
 ---
 
-## `github_stats`
-
 <div align="center">
-
-![Dante's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dante1204&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dante1204&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
-
-<div align="center">
-
-*"El software es la versión más cercana a la magia que existe."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Dante1204&color=58a6ff&style=flat-square)
 
