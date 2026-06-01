@@ -35,17 +35,17 @@ buscando:     Oportunidades para crecer, colaborar y construir cosas chidas
 ## `tech stack`
 
 ```
-  "languages":   ["JavaScript", "TypeScript", "Java 21", "C#", "PHP", "Python", "SQL"],
+  "lenguajes":   ["JavaScript", "TypeScript", "Java 21", "C#", "PHP", "Python", "SQL"],
   "frontend":    ["React 19", "Next.js 15", "HTML", "CSS"],
   "backend":     ["Node.js", "Prisma ORM"],
-  "databases":   ["SQL", "NoSQL"],
+  "bases de datos":   ["SQL", "NoSQL"],
   "data_bi":     ["Apache Superset", "Apache HOP"],
   "otros":       ["Unity", "JWT Auth", "LLMs / Claude"]
 ```
 
 ---
 
-## `projectos`
+## `proyectos`
 
 ### BitCuisine SIGR
 > Sistema SaaS para gestión integral de restaurantes
